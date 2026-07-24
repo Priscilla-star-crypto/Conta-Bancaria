@@ -15,8 +15,8 @@ public class Main {
             System.out.println("1: Criar Conta ");
             System.out.println("2: Depositar Dinheiro");
             System.out.println("3: Sacar Dinheiro");
-            System.out.println("5: Mostrar Saldo");
-            System.out.println("6: Mostrar Status");
+            System.out.println("4: Mostrar Saldo");
+            System.out.println("5: Mostrar Status");
             System.out.println("0: SAIR");
             System.out.println("Digite um Numero: ");
             System.out.println("-------------------------");
